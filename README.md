@@ -1,11 +1,10 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Tableau, Power BI, and Excel.
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Bachelor of Engineering, Energy Engineering | The University Brasilia - Brasilia, Brazil (_June 2016_)							       		 			        		
+- Diploma in Energy Systems Engineering | Centennial College - Toronto, Canadaa (_April 2020_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
