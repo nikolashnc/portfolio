@@ -18,4 +18,5 @@ In this project I used MICROSOFT SQL SERVER to explore two tables (Location and 
 ### Are Premier League teams that receive more red cards more likely to lose?
 ![EEG Band Discovery](/assets/img/one-of-deans-100-red-cards.-1554246789_656x450.jpg)
 [Publication](https://www.linkedin.com/pulse/do-premier-league-teams-receive-more-red-cards-likely-n%25C3%25ADkolas-costa-hvqac/?trackingId=y7lmPr8%2FTl6Oe%2BurOxurnA%3D%3D)
+
 This analysis focuses on the correlation between the number of cards received by teams and their likelihood of losing, and the influence of referees by exploring whether those who issue more cards have a greater impact on the match outcome.
