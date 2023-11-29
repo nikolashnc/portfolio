@@ -23,7 +23,7 @@ This analysis focuses on the correlation between the number of cards received by
 
 ### SQL Projects
 ![EEG Band Discovery](assets/img/IMG_3349.jpg)
-[Publication]([https://github.com/nikolashnc/SQL_PROJECTS)
+[Publication](https://github.com/nikolashnc/SQL_PROJECTS)
 
 Check out different SQL projects!!
 
