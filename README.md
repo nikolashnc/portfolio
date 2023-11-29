@@ -27,5 +27,10 @@ This analysis focuses on the correlation between the number of cards received by
 
 Check out different SQL projects!!
 
+### Tableau Dashborads
+![EEG Band Discovery](assets/img/tableau-logo (1).jpg)
+[Publication](https://public.tableau.com/app/profile/nikolas.costa/vizzes)
+
+Check out my Tableau dashborads
 
 
