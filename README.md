@@ -20,3 +20,17 @@ In this project I used MICROSOFT SQL SERVER to explore two tables (Location and 
 [Publication](https://www.linkedin.com/pulse/do-premier-league-teams-receive-more-red-cards-likely-n%25C3%25ADkolas-costa-hvqac/?trackingId=y7lmPr8%2FTl6Oe%2BurOxurnA%3D%3D)
 
 This analysis focuses on the correlation between the number of cards received by teams and their likelihood of losing, and the influence of referees by exploring whether those who issue more cards have a greater impact on the match outcome.
+
+### SQL Projects
+![EEG Band Discovery](assets/img/IMG_3349.jpg)
+[Publication]([https://github.com/nikolashnc/SQL_PROJECTS)
+
+Check out different SQL projects!
+
+### Tableau Dashborads
+![EEG Band Discovery](assets/img/tableau-logo (1).jpg)
+[Publication](https://public.tableau.com/app/profile/nikolas.costa/viz/Portfolio_COVID/Dashboard1))
+
+Check out my Tableau dashborads 
+
+
