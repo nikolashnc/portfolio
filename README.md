@@ -1,5 +1,13 @@
 # Data Analyst
 
+# Profile
+
+Bilingual professional fluent in Portuguese and English, specializing in data organization, analysis, and presentation. Possessing 3+ years of experience crafting impactful presentations and dashboards, along with expertise in SQL, Power BI, Python, and Tableau. Completed Bachelor's in Energy Engineering from the University of Brasilia and holds a Diploma in Energy Systems Engineering from Centennial College, Toronto. 
+
+Beyond data, I'm a fervent Data Analyst who finds rhythm in drumming, drawing inspiration from the timeless melodies of The Beatles. Off the analytical grid, I'm equally passionate about soccer, where the blend of teamwork and strategic maneuvers resonates deeply with me.
+
+Currently, l am seeking a position into Data Analytics. Reach out for discussions on data analysis, music, soccer, or any synergies between 
+
 #### Technical Skills: Python, SQL, Tableau, Power BI, and Excel.
 
 ## Projects
