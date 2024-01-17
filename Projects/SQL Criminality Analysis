@@ -1,2 +1,38 @@
-Introduction
+# Introduction
+
 The analysis of crime datasets plays a crucial role in enhancing public safety and guiding law enforcement strategies. By examining detailed records of criminal incidents, analysts can identify patterns and trends in crime across different neighborhoods, locations, and premises types. This information is invaluable for understanding the dynamics of criminal behavior, which can then inform targeted interventions.
+
+# Data
+
+In this project, I used MICROSOFT SQL SERVER to explore two tables (Location and Crime) that contain data from the Toronto Police Department on MAJOR CRIME INDICATORS FROM 2021 TO 2022. Some insight has been displayed graphically using EXCEL. The dataset is originally one single file that has been transformed and broken into 2 tables.
+Location Dataset: It contains data on where the incident took place
+1.      OBJECTID: A unique identifier for each crime event.
+2.      NEIGHBOURHOOD: The name of the neighborhood where the crime event took place.
+3.      LOCATION_TYPE: A description of the location type, such as 'Apartment', 'Commercial', or 'Outside', which provides context about the environment where the crime occurred.
+4.      PREMISES_TYPE: This indicates the type of premises involved, like 'House', 'Commercial', or 'Apartment', giving further details about the specific property type.
+
+Crime Dataset: It contains data on how the crime has been classified and when it has been reported.
+1.      OBJECTID: As in the location dataset, this acts as a unique identifier that can be used to link the crime data to the location data.
+2.      REPORT_DATE: The date on which the crime event was reported. This field is in a date format and allows for analysis over time.
+3.      OFFENCE: The specific offense reported, which could range from 'Assault' to 'Theft Of Motor Vehicle' or 'Break and Enter'.
+4.      MCI_CATEGORY: The major crime indicator category of the offense, which classifies the offense into broader categories like 'Assault', 'Auto Theft', or 'Break and Enter'.
+
+The datasets are structured in such a way that they can be merged on the OBJECTID field to provide a comprehensive view of each crime event. From these datasets, several types of problems cab be tackled related to crime analysis and public safety strategies. To achieve that, the following topics has been approached.
+1.       Crimes Per Neighborhood.
+2.       Crimes Per Location Type:
+3.       Crimes Per Premises Type.
+4.       Distribution of Crimes Over Time
+5.       Most Common MCI Categories
+
+# Analysis
+
+1- Understanding crimes per neighborhood is integral to pinpointing areas with higher safety risks and directing police patrols and community resources accordingly. SO, WHAT ARE THE MOST DANGEROUS NEIGHBOURHOODS?
+This question has been answered with the following query:
+![EEG Band Discovery](/assets/img/one-of-deans-100-red-cards.-1554246789_656x450.jpg)
+The neighborhood with the highest number of reported crimes is West Humber-Clairville, with 2,253 incidents. The same query can be used to get the safest neighborhood in Toronto by changing the ORDER BY clause from descending to ascending. The neighborhood with the lowest number of reported crimes is Guildwood, with 120 incidents.
+
+
+
+
+
+
