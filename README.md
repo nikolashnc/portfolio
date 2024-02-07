@@ -2,7 +2,7 @@
 
 # Profile
 
-Currently, l am seeking a position into Data Analytics.
+Currently, l am seeking a position in Data Analytics.
 
 Bilingual professional fluent in Portuguese and English, specializing in data organization, analysis, and presentation. Possessing 3+ years of experience crafting impactful presentations and dashboards, along with expertise in SQL, Power BI, Python, and Tableau. Completed Bachelor's in Energy Engineering from the University of Brasilia and holds a Diploma in Energy Systems Engineering from Centennial College, Toronto. 
 
@@ -11,11 +11,18 @@ Beyond data, I'm a fervent Data Analyst who finds rhythm in drumming, drawing in
 #### Technical Skills: Python, SQL, Tableau, Power BI, and Excel.
 
 ## Projects
-### SQL exploratory data analysis on Toronto major crime indicators.
+### Income Statement using Power BI.
+![EEG Band Discovery](/assets/img/Screenshot 2024-02-06 230655.png)
+[Publication](https://www.linkedin.com/pulse/income-statement-power-bi-n%25C3%25ADkolas-costa-w4che/?trackingId=4dNeEZVUQlSVJuITK9ApHw%3D%3D)
+
+In this project I conducted a thorough financial analysis for an IT firm using Power BI, focusing on sales, profits, and expenses (Income Statement) across countries. Utilized Power BI's pillars for effective data handling and visualization, presenting insights through KPIs and charts. 
+
+
+### SQL exploratory data analysis on Toronto's major crime indicators.
 ![EEG Band Discovery](/assets/img/sxsx.jpg)
 [Publication](https://www.linkedin.com/pulse/sql-exploratory-data-analysis-toronto-police-department-n%25C3%25ADkolas-costa-ykkfc/?trackingId=80DpYxu7S7KZnVWuf%2FKMjQ%3D%3D)
 
-In this project I used MICROSOFT SQL SERVER to explore two tables (Location and Crime) that contain data from Toronto Police Department on major crime indicators from 2021 TO 2022
+In this project, I used MICROSOFT SQL SERVER to explore two tables (Location and Crime) that contain data from the Toronto Police Department on major crime indicators from 2021 TO 2022
 
 ### Are Premier League teams that receive more red cards more likely to lose?
 ![EEG Band Discovery](/assets/img/one-of-deans-100-red-cards.-1554246789_656x450.jpg)
