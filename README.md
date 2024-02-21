@@ -11,6 +11,14 @@ Beyond data, I'm a fervent Data Analyst who finds rhythm in drumming, drawing in
 #### Technical Skills: Python, SQL, Tableau, Power BI, and Excel.
 
 ## Projects
+### Power BI ATM Transactions Analysis Dashboard
+
+In this project I conducted a thorough analysis of ATM's performance for a bank using Power BI. Utilized Power BI's pillars for effective data handling and visualization, presenting insights through KPIs and charts.
+
+[Publication](https://www.linkedin.com/feed/update/urn:li:activity:7165773278664413185/)
+
+
+
 ### Income Statement using Power BI.
 ![EEG Band Discovery](/assets/img/Screenshot 2024-02-06 230655.png)
 [Publication](https://www.linkedin.com/pulse/income-statement-power-bi-n%25C3%25ADkolas-costa-w4che/?trackingId=4dNeEZVUQlSVJuITK9ApHw%3D%3D)
