@@ -14,9 +14,8 @@ Beyond data, I'm a fervent Data Analyst who finds rhythm in drumming, drawing in
 ### Power BI ATM Transactions Analysis Dashboard
 
 In this project I conducted a thorough analysis of ATM's performance for a bank using Power BI. Utilized Power BI's pillars for effective data handling and visualization, presenting insights through KPIs and charts.
-
-[Publication](https://www.linkedin.com/feed/update/urn:li:activity:7165773278664413185/)
-
+![EEG Band Discovery](/assets/img/Screenshot 2024-02-20 221710.png)
+[Publication](https://www.linkedin.com/feed/update/urn:li:activity:7165773278664413185/)   
 
 
 ### Income Statement using Power BI.
