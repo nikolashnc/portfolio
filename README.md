@@ -1,3 +1,4 @@
+
 # Data Analyst
 
 # Profile
@@ -13,7 +14,7 @@ Beyond data, I'm a fervent Data Analyst who finds rhythm in drumming, drawing in
 ## Projects
 ### Power BI Sales & Profit Dashboard
 ![EEG Band Discovery](assets/img/sales.png)
-[Publication](https://www.linkedin.com/in/n%C3%ADkolas-costa-453b48106/recent-activity/all/)
+[Publication](https://www.linkedin.com/feed/update/urn:li:activity:7166839860656357376/)
 
 Explore My Interactive Power BI Sales & Profit Dashboard
 
@@ -25,7 +26,7 @@ In this project I conducted a thorough analysis of ATM's performance for a bank 
 
 ### Income Statement using Power BI.
 ![EEG Band Discovery](/assets/img/Screenshot 2024-02-06 230655.png)
-[Publication](https://www.linkedin.com/pulse/income-statement-power-bi-n%25C3%25ADkolas-costa-w4che/?trackingId=4dNeEZVUQlSVJuITK9ApHw%3D%3D)
+[Publication](https://www.linkedin.com/feed/update/urn:li:activity:7166834965677084672/)
 
 In this project I conducted a thorough financial analysis for an IT firm using Power BI, focusing on sales, profits, and expenses (Income Statement) across countries. Utilized Power BI's pillars for effective data handling and visualization, presenting insights through KPIs and charts. 
 
