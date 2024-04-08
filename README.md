@@ -14,7 +14,7 @@ Beyond data, I'm a fervent Data Analyst who finds rhythm in drumming, drawing in
 ## Projects
 ### Power BI Sales & Profit Dashboard
 ![EEG Band Discovery](assets/img/sales.png)
-[Publication](https://www.linkedin.com/feed/update/urn:li:activity:7166839860656357376/)
+[Publication](https://www.linkedin.com/feed/update/urn:li:activity:7183071701063114752/)
 
 Explore My Interactive Power BI Sales & Profit Dashboard
 
@@ -28,7 +28,7 @@ In this project I conducted a thorough analysis of ATM's performance for a bank 
 ![EEG Band Discovery](/assets/img/Screenshot 2024-02-06 230655.png)
 [Publication](https://www.linkedin.com/feed/update/urn:li:activity:7166834965677084672/)
 
-In this project I conducted a thorough financial analysis for an IT firm using Power BI, focusing on sales, profits, and expenses (Income Statement) across countries. Utilized Power BI's pillars for effective data handling and visualization, presenting insights through KPIs and charts. 
+In this project I conducted a thorough financial analysis for an IT firm using Power BI, focusing on sales, profits, and expenses (Income Statement) across countries. I utilized Power BI's pillars for effective data handling and visualization, presenting insights through KPIs and charts. 
 
 ### SQL exploratory data analysis on Toronto's major crime indicators.
 ![EEG Band Discovery](/assets/img/sxsx.jpg)
@@ -52,13 +52,13 @@ Check out different SQL projects!!
 ![EEG Band Discovery](assets/img/413+SVFO39L.png)
 [Publication](https://public.tableau.com/app/profile/nikolas.costa/vizzes)
 
-Explore My Interactive Tableau Dashboard which analyze Amazon Prime Catalogue. The purpose of visual identity is: to create an emotional impression on viewers. to inform viewers about the nature of the brand and services/products offered. to unify the many different aspects of a business through consistent visuals.
+Explore My Interactive Tableau Dashboard which analyzes Amazon Prime Catalogue. The purpose of visual identity is: to create an emotional impression on viewers. to inform viewers about the nature of the brand and services/products offered. to unify the many different aspects of a business through consistent visuals.
 
 ### Employee Attendance Patterns through Power BI
 ![EEG Band Discovery](assets/img/HR-career-1024x512.png)
 [Publication](https://www.linkedin.com/pulse/driving-hr-efficiency-unveiling-employee-attendance-patterns-costa-3xcmc/?trackingId=z0ueG3nMREWCkUOJrSmBiQ%3D%3D)
 
-This study aims to calculate the percentage of employee presence, work-from-home hours, and sick leave within the HR department over a three-month period using Power BI.
+This study uses Power BI to calculate the percentage of employee presence, work-from-home hours, and sick leave within the HR department over a three-month period.
 
 ### Interactive Excel Dashboard
 ![EEG Band Discovery](assets/img/Microsoft_Office_Excel_(2013–2019).svg.png)
