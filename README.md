@@ -12,6 +12,14 @@ Beyond data, I'm a fervent Data Analyst who finds rhythm in drumming, drawing in
 #### Technical Skills: Python, SQL, Tableau, Power BI, and Excel.
 
 ## Projects
+
+### Power BI Performance Report
+![EEG Band Discovery](assets/img/sales.png)
+[Publication](https://www.linkedin.com/posts/n%C3%ADkolas-costa_power-bi-sales-performance-report-activity-7283565274287468544-brQT/?utm_source=share&utm_medium=member_desktop)
+
+Are You Tired of Using Bookmarks or Adding Multiple Pages to Your Power BI Reports? Discover How the SWITCH Function Can Simplify and Streamline Your Performance Report!
+
+Explore My Interactive Power BI Sales & Profit Dashboard
 ### Power BI Sales & Profit Dashboard
 ![EEG Band Discovery](assets/img/sales.png)
 [Publication](https://www.linkedin.com/feed/update/urn:li:activity:7183071701063114752/)
